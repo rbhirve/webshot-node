@@ -1,0 +1,10 @@
+{
+	"db":{
+		"host":"xxxxxxxxxxxxxxx",
+		"port":3306,
+		"user":"bot",
+		"password":"xxxxx",
+		"database":"xxxxx"
+	},
+	"baseSite":"http://thedialogue.co"
+}

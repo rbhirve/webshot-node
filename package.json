@@ -1,0 +1,19 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Web spider",
+  "main": "server.js",
+  "author": "Ramesh",
+  "dependencies": {
+    "async": "latest",
+    "aws-sdk": "latest",
+    "cheerio": "latest",
+    "fs": "0.0.1-security",
+    "mysql": "latest",
+    "pageres": "^4.5.1",
+    "request": "latest",
+    "s3": "^4.4.0",
+    "sqs-consumer": "^3.6.1",
+    "url": "latest"
+  }
+}
